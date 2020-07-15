@@ -1,4 +1,4 @@
-# The Futuer of Saudi Araiba with the novel coronavirus
+# The Futuer of Saudi Araiba With The Novel Coronavirus
 <img src="./Covid-Virus.png" alt="drawing" />
 
 ## Introduction
@@ -9,4 +9,5 @@ recession.
 ```
 I am goign to try answer thses questions by usaing advanced models to predect the futer of Saudi Arabia or at least untill the end of 2020. The project going to be updated with new forcast or results avery week.
 ```
+
 
