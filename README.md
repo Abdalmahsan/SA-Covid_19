@@ -1,5 +1,5 @@
 # The Futuer of Saudi Araiba With The Novel Coronavirus
-<img src=./Covid-Virus.png", hight="300" alt="drawing" />
+<img src="./Covid-Virus.png" alt="drawing" width="600" height="400" />
 
 ## Introduction
 The rapid spread of the novel coronavirus and its resulting condition, COVID-19, has caught much of the world off-guard. The tragedy has yet to fully play out, but 
