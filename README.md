@@ -1,2 +1,6 @@
 # SA-Covid_19
-The rapid spread of the novel coronavirus and its resulting condition, COVID-19, has caught much of the world off-guard. The tragedy has yet to fully play out, but it is already clear that the crisis is thoroughly global in nature and that science is on the front lines in the fight against the virus. This includes medical professionals attempting to heal the sick at risk to their own health, public health officials tracking the virus and vigilantly urging such measures as social distancing to mitigate its spread, and researchers now engaged in the development of diagnostics, treatments and vaccines. 
+The rapid spread of the novel coronavirus and its resulting condition, COVID-19, has caught much of the world off-guard. The tragedy has yet to fully play out, but 
+what about Saudi arabia? is going to face harsh second wave of COVID-19 cases are we heading to another resstion?.is this recession would be harder than 2016-17 recession. 
+
+I am goign to try answer thses questions by usaing advanced models to predect the futer of Saudi Arabia or at least untill the end of 2020. The project going to be updated with new forcast or results avery week.
+
